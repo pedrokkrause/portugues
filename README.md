@@ -1,2 +1,7 @@
 # Todas as Palavras da Língua Portuguesa
-A partir das listas disponibilizadas em https://github.com/pythonprobr/palavras e https://www.ime.usp.br/~pf/dicios/index.html, combinei ambas em dois arquivo com em torno de 550.000 termos, com repetições removidas, um com acentuação e outro sem. O arquivo com acentuação apresentou problemas para colocar alfabeticamente e, portanto, isto não foi feito de modo totalmente correto.
+A partir das listas disponibilizadas em:
+- https://github.com/pythonprobr/palavras 
+- https://www.ime.usp.br/~pf/dicios/index.html
+- https://github.com/AlfredoFilho/Palavras_PT-BR
+- https://github.com/fserb/pt-br
+Combinei todas em um arquivo com cerca de 1.481.791 termos, com repetições removidas, sem acentuação.

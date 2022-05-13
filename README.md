@@ -5,4 +5,4 @@ A partir das listas disponibilizadas em:
 - https://github.com/AlfredoFilho/Palavras_PT-BR
 - https://github.com/fserb/pt-br
 
-Combinei todas em um arquivo com cerca de 1.481.791 termos, com repetições removidas, sem acentuação.
+Combinei todas em um arquivo com cerca de 1.481.791 termos e 18MB, com repetições removidas, sem acentuação.

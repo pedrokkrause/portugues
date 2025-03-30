@@ -15,7 +15,7 @@ allowed_characters = frozenset(string.ascii_letters + '-')
 vogals = frozenset('aeiou')
 
 with open("portugues/pt-extract.jsonl", encoding="utf-8") as f, open('portugues/wikcionario.txt','w', encoding="utf-8") as g:
-    for i,line in enumerate(f):
+    for line in f:
         data = json.loads(line)
         if data.get('lang') == "Português":
             word = data['word']
